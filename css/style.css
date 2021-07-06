@@ -38,11 +38,11 @@ section{
 .top-margin{
     margin-top: 100px;
 }
-.text-aline{
+.center{
    text-align: center;
 }
 .last-banner{
-    margin-right:20px;
+    margin-right:10px;
     width: 30%;
     padding: 15px;
     border: 2px solid white;
@@ -52,11 +52,18 @@ section{
 .box-width{
     width: 33%;    
 }
-#for-shadow{
+.big-box-shadow{
+    margin: 50px 20px;
     padding: 15px;
     border: 5px solid white;
     border-radius: 13px;
     box-shadow: 0 0 30px gray;
+}
+
+button{
+    color: seagreen;
+    padding: 10px 20px;
+    border-radius: 20px;
 }
 footer{
     background-color: mediumturquoise;
