@@ -22,6 +22,18 @@ section{
     width: 50%;
     margin: 30px;
 }
+#top-background{
+    background-image: url(../images/shapes/Group\ 8449.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 65%;
+    
+}
+#mid-background{
+    background-image: url(../images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+}
 .top-margin{
     margin-top: 100px;
 }
@@ -30,8 +42,7 @@ section{
 }
 .last-banner{
     margin-right:20px;
-
-    width: 30%px;
+    width: 30%;
     padding: 15px;
     border: 2px solid white;
     border-radius: 20px;
