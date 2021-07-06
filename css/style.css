@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+}
+.color{
+    color: darkblue;
+}
+.link-button{
+    text-decoration: none;
+    color: ghostwhite;
+    background-image: linear-gradient(lightseagreen,mediumblue);
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 30px;
+}
+.top-margin{
+    margin-top: 100px;
+}
+.mid-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
