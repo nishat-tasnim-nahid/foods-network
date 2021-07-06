@@ -42,12 +42,16 @@ section{
    text-align: center;
 }
 .last-banner{
-    margin-right:10px;
+    margin: 3%;
     width: 30%;
     padding: 15px;
     border: 2px solid white;
     border-radius: 20px;
     box-shadow:0 0 25px grey;
+}
+.last-banner img{
+    height: 50%;
+    width: 100%;
 }
 .box-width{
     width: 33%;    
