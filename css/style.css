@@ -28,6 +28,14 @@ section{
    text-align: center;
 }
 .last-banner{
-    margin: 30px;
+    margin-right:20px;
+
+    width: 30%px;
+    padding: 15px;
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px 4px whitesmoke;
     
+
+
 }
